@@ -1,8 +1,8 @@
 Input:
-a=10
-b=20
+a=20
+b=30
 
-print(a+b)
+print(a*b)
 
 Output:
-30
+600
